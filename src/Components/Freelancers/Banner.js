@@ -2,7 +2,7 @@ import React from 'react';
 
 function Banner(){
     return(
-        <section className="banner-freelancers sp-60 height-70 flex-center-align flex-column" style={{backgroundImage:"url(/images/free-bg.png)"}}>
+        <section className="banner-freelancers sp-60 height-70 flex-center-align flex-column" style={{backgroundImage:"url(/images/freelancers-bg.png)"}}>
         <div className="container">
             <div className="row">
                 <div className="col-lg-6">

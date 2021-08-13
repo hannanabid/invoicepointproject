@@ -4,9 +4,7 @@ import MainHeading from '../Common/MainHeading';
 
 
 function Features(){
-    return(
-
-        
+    return(     
             <section className="features sp-90">
                     <div className="container">
                         <div className="row">
@@ -20,7 +18,7 @@ function Features(){
                         </div>
                         <div className="row sp-60">
                                 <div className="col-lg-6">
-                                         <img src="/images/Mask Group 10.png" alt="fast payment"></img>
+                                         <img src="/images/Mask Group 7.png" alt="fast payment"></img>
                                 </div>
                                 <div className="col-lg-6 flex-align-items flex-column  ">
                                         <h3 className="h-3 pb-20 pl-10"><span className="span-color">Fast</span> Payements and <span className="span-color">Easy</span> Invoicing </h3>
@@ -29,7 +27,7 @@ function Features(){
                         </div>
                         <div className="row reverse">
                                 <div className="col-lg-6">
-                                         <img src="/images/Mask Group 10.png" alt="fast payment"></img>
+                                         <img src="/images/Mask Group 6.png" alt="fast payment"></img>
                                 </div>
                                 <div className="col-lg-6 flex-align-items flex-column ">
                                     <div className="p-0-20">
@@ -40,7 +38,7 @@ function Features(){
                         </div>
                         <div className="row ">
                                 <div className="col-lg-6">
-                                         <img src="/images/Mask Group 10.png" alt="invoice sharing"></img>
+                                         <img src="/images/Mask Group 8.png" alt="invoice sharing"></img>
                                 </div>
                                 <div className="col-lg-6 flex-align-items flex-column">
                                         <h3 className="h-3 pb-20 pl-10">Invoice Sharing Made <span className="span-color">Simple</span> </h3>

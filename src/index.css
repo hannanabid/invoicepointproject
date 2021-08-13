@@ -368,6 +368,16 @@ label{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.banner-organization{
+  background-repeat: no-repeat;
+  background-position: right;
+  /* background-size: cover; */
+  /* width: 696px; */
+}
+.banner-freelancers{
+  background-repeat: no-repeat;
+  background-position: right;
+}
 
 .tryInvoice{
     background-color: #F7F8FE;
